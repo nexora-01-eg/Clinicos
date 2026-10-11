@@ -1,0 +1,4 @@
+/* Self-hosted variable Inter — no external font CDN calls, so the app
+   keeps its typography intact fully offline once installed. */
+@import "@fontsource-variable/inter/index.css";
+@import "@fontsource-variable/inter/wght-italic.css";
